@@ -45,5 +45,7 @@ class DietModel {
         viewIsSelected: false,
       ),
     );
+
+    return diets;
   }
 }
